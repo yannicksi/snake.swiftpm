@@ -10,3 +10,9 @@ struct ContentView: View {
         }
     }
 }
+
+struct Halllo:View {
+    var body: some View {
+        Text("hey")
+    }
+}
